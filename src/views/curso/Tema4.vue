@@ -88,13 +88,13 @@
     p.mb-5 Aplicar correctamente los principios de la partida doble permite:
 
     .row.mb-5
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         div.tarjeta.bg-color-11.p-4.text-center.text-white
           p.mb-0 <b>Detectar errores</b> en los registros contables.
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         div.tarjeta.bg-color-12.p-4.text-center
           p.mb-0 <b>Garantizar la precisión</b> de los estados financieros.
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         div.tarjeta.bg-color-5.p-4.text-center
           p.mb-0 <b>Facilitar la preparación</b> de reportes financieros claros y  estandarizados.
               
@@ -118,19 +118,19 @@
     
     
     .row.justify-content-center.align-items-stretch.mb-5
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         .tarjeta.bg-color-2.h-100.text-center
           .bg-color-11.px-4.px-lg-5.py-3.rounded-top.text-white
             h4.mb-0.text-center Activo (maquinaria)
           p.mb-0.p-4 Aumenta.
 
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         .tarjeta.bg-color-13.h-100.text-center
           .bg-color-12.px-4.px-lg-5.py-3.rounded-top
             h4.mb-0.text-center Activo (caja)
           p.mb-0.p-4 Disminuye.
 
-      .col-lg-4
+      .col-lg-4.mb-3.mb-lg-0
         .tarjeta.bg-color-14.h-100.text-center
           .bg-color-5.px-4.px-lg-5.py-3.rounded-top
             h4.mb-0.text-center Pasivo (préstamo)
