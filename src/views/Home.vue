@@ -22,11 +22,7 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Desde los comienzos de la humanidad, la relación entre los principios éticos, el desarrollo económico y la sostenibilidad ha sido fundamental para garantizar un progreso equilibrado y equitativo. En un contexto globalizado, donde los desafíos éticos y ambientales son cada vez más evidentes, la bioética emerge como una herramienta clave para orientar decisiones económicas responsables que respeten tanto el medio ambiente como los derechos humanos.
-
-              p.descripcion.mb-4 En esta unidad, profundizaremos en el rol de la bioética como pilar de la sostenibilidad en el desarrollo económico, explorando temas esenciales como la aplicación de principios éticos al uso de recursos naturales, la influencia de las políticas globales en la protección de los derechos humanos y la ética en la innovación tecnológica. 
-              
-              p #[b Prepárate para explorar los retos y oportunidades que la sostenibilidad y la bioética presentan en un mundo en constante evolución.]
+              p.descripcion.mb-4 La contabilidad es el sistema que registra, analiza y proyecta la información financiera de una organización. Se clasifica en financiera, administrativa, fiscal y de costos, cada una con funciones específicas. Su correcta aplicación facilita la toma de decisiones estratégicas y el cumplimiento normativo. El principio de partida doble y la ecuación contable aseguran el equilibrio en los registros financieros. Además, las Normas de Información Financiera (NIF) garantizan transparencia y comparabilidad. Dominar estos conceptos permite gestionar eficientemente los recursos, optimizar costos y mejorar la sostenibilidad empresarial en un entorno competitivo.
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
