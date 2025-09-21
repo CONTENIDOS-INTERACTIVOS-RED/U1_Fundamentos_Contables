@@ -143,7 +143,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7(data-aos="fade-left").mb-3.mb-lg-0.order-2
             h5 Ejemplo sencillo 
-            p.mb-0 PSi una empresa vende productos por $5.000 y recibe el pago en efectivo, los registros financieros serán:
+            p.mb-0 Si una empresa vende productos por $5.000 y recibe el pago en efectivo, los registros financieros serán:
             ul.lista-ul--color.p-4
               li.mb-0.d-flex
                 i.far.fa-arrow-alt-circle-right.bg-color-9

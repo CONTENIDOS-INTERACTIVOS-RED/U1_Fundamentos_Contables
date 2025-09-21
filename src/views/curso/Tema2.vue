@@ -141,9 +141,7 @@
             
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://infolibros.org/libros-pdf-gratis/negocios/contabilidad/https://www.imcp.org.mx_blank" rel="noopener noreferrer") Instituto Mexicano de Contadores Públicos (IMCP). (s.f.). Normas de Información Financiera (NIF) en México.  
-
-            
+              a(href="https://www.konradlorenz.edu.co/blog/que-son-las-niif-normas-de-informacion-financiera/" rel="noopener noreferrer") Reina, D. (2024). Qué son las NIIF: Normas de Información Financiera. (Blog) Fundación universitaria Konrad Lorenz.
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")

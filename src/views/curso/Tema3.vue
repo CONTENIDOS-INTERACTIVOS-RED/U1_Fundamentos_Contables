@@ -181,7 +181,7 @@
                   i.far.fa-arrow-alt-circle-right.bg-color-9
                   p.mb-0 <b>Crédito.</b>  Caja (activo) por $10.000.
             
-            td La transacción afecta a d os cuentas opuestas, pero mantiene el equilibrio financiero.
+            td La transacción afecta a dos cuentas opuestas, pero mantiene el equilibrio financiero.
           tr
             td Compra de inventario financiada con crédito bancario por $50.000
             td 
@@ -460,12 +460,19 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://es.wikibooks.org/wiki/Categor%C3%ADa%3AContabilidad" target="_blank" rel="noopener noreferrer") Wikilibros. (s.f.). Categoría: Contabilidad.
+              a(href="https://www.contaduria.gov.co/marco-conceptual-para-la-informacion-financiera-y-normas-de-informacion-financiera" target="_blank" rel="noopener noreferrer") Contaduría General de la Nación. (2024). Marco Conceptual para la Información Financiera y Normas de Información Financiera. Recuperado de Contaduría General de la Nación
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.contabilidadyfinanzas.com/cuentas-contables" target="_blank" rel="noopener noreferrer") Pérez, A. (2019). Cuentas contables: Definición y tipos [Blog].  
+              a(href="https://ensambledeideas.com/cuentas-contables-clasificacion/" target="_blank" rel="noopener noreferrer") Ensamble de Ideas. (2024, octubre 26). Cuentas contables: Lista con definiciones, usos y clasificación. Ensamble de Ideas. 
+            
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/ereader/tecnologicadeloriente/271541?page=1" target="_blank" rel="noopener noreferrer") Sánchez Morales, F. (2024). Fundamentos de contabilidad financiera: (1 ed.). Editorial Universitaria de Chile. 
 
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=gR_XVZx7VOA" target="_blank" rel="noopener noreferrer") Akyurt, E.  (2020, 28 de agosto). Estructura general de la cuenta: Los elementos que la componen. Dualidad contable México. [Vídeo] YouTube
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
               a(href="https://www.youtube.com/watch?v=2Jnd3V4BbXA" target="_blank" rel="noopener noreferrer") Gómez, J. (2019). ¿Qué son las cuentas contables? [Video]. YouTube. Recuperado de 

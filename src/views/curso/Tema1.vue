@@ -221,9 +221,7 @@
             
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.contabilidadbasica.com/definicion-y-clasificacion-de-contabilidad" target="_blank" rel="noopener noreferrer") Martínez, R. (2020). Definición de contabilidad y sus clasificaciones [Blog].  
-
-            
+              a(href="https://www.cesuma.mx/blog/conceptos-basicos-y-objetivos-de-la-contabilidad.html" target="_blank" rel="noopener noreferrer") Cortez, D. Conceptos básicos y objetivos de la contabilidad. Universidad Cesuma.
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
