@@ -464,7 +464,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://ensambledeideas.com/cuentas-contables-clasificacion/" target="_blank" rel="noopener noreferrer") Ensamble de Ideas. (2024, octubre 26). Cuentas contables: Lista con definiciones, usos y clasificación. Ensamble de Ideas. 
+              a(href="https://www.academia.edu/7606790/CLASIFICACION_DE_LAS_CUENTAS_195_cuentas" target="_blank" rel="noopener noreferrer") Trujillo, J. M. (2011). Clasificación de las cuentas.
             
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
