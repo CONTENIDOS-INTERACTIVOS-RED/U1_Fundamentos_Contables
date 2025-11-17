@@ -240,7 +240,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.contabilidadyfinanzas.com/partida-doble-y-ecuacion-contable" target="_blank" rel="noopener noreferrer") García, P. (2020). Partida Doble y Ecuación Contable: Conceptos básicos [Blog]. 
+              a(href="https://aulasvirtuales.uniquindio.edu.co/RecDigital/ContabilidadAdmin_AN/recursos/unidad2/Descargable_U2_EA1.pdf" target="_blank" rel="noopener noreferrer") Universidad Nacional Abierta y a Distancia (UNAD). (s. f.). Unidad 2: La Partida Doble y la Ecuación Patrimonial.
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
