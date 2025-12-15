@@ -240,7 +240,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://aulasvirtuales.uniquindio.edu.co/RecDigital/ContabilidadAdmin_AN/recursos/unidad2/Descargable_U2_EA1.pdf" target="_blank" rel="noopener noreferrer") Universidad Nacional Abierta y a Distancia (UNAD). (s. f.). Unidad 2: La Partida Doble y la Ecuación Patrimonial.
+              a(href="https://riunet.upv.es/server/api/core/bitstreams/f970b1da-2d63-4906-869e-881b8c70d363/content" target="_blank" rel="noopener noreferrer") García Hurtado, D., & Rueda Armengot, C. El Principio de Partida Doble: Fundamentos y Aplicación Práctica en la Contabilidad.
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
